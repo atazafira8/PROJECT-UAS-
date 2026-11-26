@@ -1,3 +1,5 @@
-node_modules/
+git add .
+git commit -m "Tambah folder baru"
+git pushnode_modules/
 dist/
 data/
